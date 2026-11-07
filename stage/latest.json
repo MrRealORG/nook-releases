@@ -1,0 +1,15 @@
+{
+  "version": "1.7.6",
+  "notes": "Pre-release test build: desktop pet ultra edition, Markdown table fix, new Markdown viewer.",
+  "pub_date": "2026-11-07T01:33:54Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNiswTE5PZHo2Vk9qUnlDQ0UvWDZTSENqQkRiMUR6dngybzJyK0lUY3BkdjRrSnJCemw0dkdxUFV6M09mMDhIaEg0QW5MU0xiaXh4RUZkVjJNbEN0dG0zaTU3d1RuRXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDE1MjA4CWZpbGU6Rmxvd25vb2tfMS43LjZfeDY0LXNldHVwLmV4ZQpKa3NhN0hXVjY5aTJNb0hHOXhRUzlvNTNIclhFald1ZWZBSzk3dGpoWkxZRGdHL1Z4aUt2Skc2WkVFOCt0SXY2N1laR2w4dUx3RTJuL2FiMmw3MUJEUT09Cg==",
+      "url": "https://github.com/MrRealORG/nook-releases/releases/download/v1.7.6/Flownook_1.7.6_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNiswTE5PZHo2Vk9qUnlDQ0UvWDZTSENqQkRiMUR6dngybzJyK0lUY3BkdjRrSnJCemw0dkdxUFV6M09mMDhIaEg0QW5MU0xiaXh4RUZkVjJNbEN0dG0zaTU3d1RuRXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDE1MjA4CWZpbGU6Rmxvd25vb2tfMS43LjZfeDY0LXNldHVwLmV4ZQpKa3NhN0hXVjY5aTJNb0hHOXhRUzlvNTNIclhFald1ZWZBSzk3dGpoWkxZRGdHL1Z4aUt2Skc2WkVFOCt0SXY2N1laR2w4dUx3RTJuL2FiMmw3MUJEUT09Cg==",
+      "url": "https://github.com/MrRealORG/nook-releases/releases/download/v1.7.6/Flownook_1.7.6_x64-setup.exe"
+    }
+  }
+}
